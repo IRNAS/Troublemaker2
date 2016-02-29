@@ -1,6 +1,10 @@
 # Troublemaker2
 Troublemaker 2 3D printer very experimental design and documentation for building the prototype, stay tuned for stable release shortly.
 
+![Troublemaker-v2-1](Troublemaker-1.jpg)
+![Troublemaker-v2-1](Troublemaker-2.jpg)
+![Troublemaker-v2-1](Troublemaker-3.jpg)
+![Troublemaker-v2-1](Troublemaker-4.jpg)
 ---
 
 #### License
