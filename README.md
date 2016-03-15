@@ -5,6 +5,10 @@ Troublemaker 2 3D printer very experimental design and documentation for buildin
 ![Troublemaker-v2-1](Troublemaker-2.jpg)
 ![Troublemaker-v2-1](Troublemaker-3.jpg)
 ![Troublemaker-v2-1](Troublemaker-4.jpg)
+
+##Buy
+You can order Troublemaker v2 3D Printer KIT from our partner company [Fabrikor](http://fabrikor.eu/index.php?route=product/category&path=60).
+
 ---
 
 #### License
