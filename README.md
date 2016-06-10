@@ -1,5 +1,6 @@
 # Troublemaker2
-Troublemaker 2 3D printer very experimental design and documentation for building the prototype, stay tuned for stable release shortly.
+
+Troublemaker v2 3D printer, part of [GoodEnoughCNC](http://goodenoughcnc.eu/) family, is an improved version of Troublemaker, a derivative from the highly popular open-source 3D printer Ultimaker Original. This is a DIY friendly open-source release with Solidworks files available in Source folder and all files needed for manufacturing in Manufacturing folder. The step by step instructions how to build the machine are available at [instructions.goodenoughcnc.eu](http://instructions.goodenoughcnc.eu).
 
 ![Troublemaker-v2-1](Troublemaker-1.jpg)
 ![Troublemaker-v2-1](Troublemaker-2.jpg)
