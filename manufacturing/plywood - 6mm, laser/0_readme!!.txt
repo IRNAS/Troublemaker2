@@ -1,0 +1,2 @@
+pri kosu housing_front je potrebno irnas logo in napis troublemaker v2 samo poglobit za cca 1mm ne pa izrezat!!
+pri kosih housing_back, housing_bottom, housing_electronics_cover, housing_left, housing_right in housing_top je potrebno oznake samo vgravirat ne pa izrezat!!
