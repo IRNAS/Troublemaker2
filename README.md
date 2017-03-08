@@ -1,5 +1,7 @@
 # Troublemaker2
 
+#### ! PLEASE NOTE THAT WE NO LONGER ACTIVELY SUPPORT THIS PROJECT. 
+
 Troublemaker v2 3D printer, part of [GoodEnoughCNC](http://goodenoughcnc.eu/) family, is an improved version of Troublemaker, a derivative from the highly popular open-source 3D printer Ultimaker Original. This is a DIY friendly open-source release with Solidworks files available in Source folder and all files needed for manufacturing in Manufacturing folder. The step by step instructions how to build the machine are available at [instructions.goodenoughcnc.eu](http://instructions.goodenoughcnc.eu).
 
 ![Troublemaker-v2-1](Troublemaker-1.jpg)
@@ -10,8 +12,6 @@ Troublemaker v2 3D printer, part of [GoodEnoughCNC](http://goodenoughcnc.eu/) fa
 ## Firmware
 Firmware is located in this repository as a .hex file. Source is avaialble separately in the following repository: https://github.com/IRNAS/Marlin
 
-##Buy
-You can order Troublemaker v2 3D Printer KIT from our partner company [Fabrikor](http://fabrikor.eu/index.php?route=product/category&path=60).
 
 ---
 
